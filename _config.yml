@@ -1,31 +1,47 @@
-title: "Ian Araújo | Portfólio"
-name: "Ian Araújo"
-description: "Estudante de Engenharia Elétrica - UFSJ"
-url: "https://ianaraujof.github.io"
+# Welcome to Jekyll!
+locale: "en-US"
+site_theme: "default"
+title: "Academic Pages"
+title_separator: "-"
+name: &name "Your Name"
+description: &description "personal description"
+url: # https://[your GitHub username].github.io
 baseurl: ""
-repository: "ianaraujof/ianaraujof.github.io"
-remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "default"
-
+repository: # [your GitHub username]/[your GitHub username].github.io
 author:
-  name: "Ian Araújo Figueiredo"
-  avatar: "/images/perfil.jpg"
-  bio: "Estudante de Engenharia Elétrica na UFSJ."
-  location: "São João Del-Rei, MG"
+  avatar: "bio-photo.jpg"
+  name: "Your Name"
+  bio: "Your bio goes here."
+  location: "City, Country"
   links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/ian-araujo-b6111b260/"
-
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:your-email@example.com"
 include:
+  - .htaccess
   - _pages
-  - _portfolio
-
+  - files
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - node_modules
+  - package.json
+  - LICENSE
+  - README
+  - tmp
+  - vendor
+markdown: kramdown
+highlighter: rouge
 collections:
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
-
 defaults:
   - scope:
       path: ""
