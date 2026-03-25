@@ -1,19 +1,12 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
 
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Ian Araújo Figueiredo / Portifolio de Projetos"
 title_separator          : "-"
-name                     : &name "Ian Araújo Figueiredo"
-description              : &description "Portfólio de projetos desenvolvidos na graduação de Engenharia Elétrica, incluindo projetos elétricos residenciais/comerciais, automações industriais, SPDA e soluções técnicas aplicadas"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "https://ianaraujoeng.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Your Name"
+description              : &description "Portfólio de projetos desenvolvidos na graduação de Engenharia Elétrica, incluindo projetos elétricos residenciais/comerciais, fotovoltaicos, automações industriais, SPDA e soluções técnicas aplicadas"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -26,11 +19,11 @@ author:
   avatar           : "profile.png"
   name             : "Ian Araújo Figueiredo"
   pronouns         : # example: "she/her"  
-  bio              : "Estudante de Engenharia Elétrica na UFSJ. Entusiasta em projetos elétricos, fotovoltaico e automação."
+  bio              : "Estudante de Engenharia Elétrica na UFSJ. Entusiasta em projetos elétricos, fotovoltaicos e automação."
   location         : "São João Del-Rei"
-  employer         : "UFSJ - Universidade Federal de São João del-Rei"
-  uri              : "https://www.ufsj.edu.br/"
-  email            : "ianfigueiredo6@gmail.com" 
+  employer         : "Red Brick University"
+  uri              : # URL
+  email            : "none@example.org" 
 
   # Academic websites
   academia         : # URL
