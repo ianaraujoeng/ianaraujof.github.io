@@ -8,14 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-# Sobre Mim
-
 Olá! Sou **Ian Araújo Figueiredo**, graduando em Engenharia Elétrica pela Universidade Federal de São João del-Rei (**UFSJ**). Minha trajetória é marcada pela união entre o rigor técnico normativo e a liderança estratégica no ecossistema da empresa júnior e da pesquisa acadêmica.
 
 Atualmente, busco oportunidades de **estágio** onde possa aplicar minha experiência em projetos elétricos, automação e gestão, contribuindo para soluções que aliem segurança, eficiência e inovação.
 
 ---
-
 ## ⚡ Trajetória na Empresa Júnior (EJEL)
 
 Minha passagem pelo Movimento Empresa Júnior (MEJ) foi o pilar da minha formação prática e gerencial:
@@ -31,7 +28,6 @@ Desenvolvi projetos e possuo sólido conhecimento das normas que regem o setor:
 * **Soluções Diversas:** Automação industrial, projetos de incêndio e soluções em eletrônica.
 
 ---
-
 ## 🔬 Pesquisa e Iniciação Científica (IC)
 
 Como **Pós-Júnior (2026)**, foco meu desenvolvimento técnico na parte elétrica e tecnológica aplicada à pesquisa:
@@ -39,7 +35,6 @@ Como **Pós-Júnior (2026)**, foco meu desenvolvimento técnico na parte elétri
 * **Hardware e Monitoramento:** Experiência prática na confecção do sistema de controle utilizando sensores de umidade, temperatura e células de carga (HX711) para monitoramento de peso em tempo real.
 
 ---
-
 ## 🎯 Objetivos e Visão de Futuro
 
 Estou na fase final da graduação, buscando integrar o mercado de trabalho para atuar profissionalmente com foco em:
@@ -47,4 +42,4 @@ Estou na fase final da graduação, buscando integrar o mercado de trabalho para
 2.  **Sistemas Elétricos de Potência (SEP)** e Controle.
 3.  **Automação e Desenvolvimento de Hardware.**
 
-> "A engenharia de excelência nasce da organização técnica rigorosa somada a uma gestão de processos eficiente."
+> "É de tanto perseguir a perfeição que chegamos a excelência."
