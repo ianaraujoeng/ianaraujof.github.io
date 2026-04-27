@@ -4,7 +4,7 @@ layout: single
 collection: publications
 permalink: /publications/projeto-81
 date: 2024-03-15
-venue "EJEL - UFSJ"
+venue: "EJEL - UFSJ"
 ------
 
 ### 🏛️ Sobre o Projeto
