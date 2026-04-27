@@ -1,11 +1,11 @@
 ---
-title: "Gestão de Projeto Elétrico Residencial - 289m²"
+title: "Projeto Elétrico Residencial - 289m² (PEL 81)"
 layout: single
 collection: publications
 permalink: /publications/projeto-81
 date: 2024-03-15
 venue: "EJEL - UFSJ"
-------
+---
 
 ### 🏛️ Sobre o Projeto
 Este projeto representa um marco na minha trajetória, sendo o primeiro em que atuei integralmente na **Gestão e Revisão Técnica**. Com uma área total de **289m²**, a residência foi projetada para atender às necessidades de uma família de três pessoas, priorizando o conforto térmico, luminotécnico e a máxima segurança operacional.
