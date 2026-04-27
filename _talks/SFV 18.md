@@ -22,11 +22,13 @@ Minha responsabilidade neste projeto envolveu desde a concepção técnica até 
 * **Parecer de Acesso:** Documentação preparada conforme as normas vigentes da concessionária para a solicitação de acesso.
 
 ---
-### 📸 Galeria do Projeto (SFV 18)
+### 📸 Imagens do Projeto (SFV 18)
 
 ![Diagramas Unifilares](/images/unifilar1.png)
 *Legenda: Detalhamento dos diagramas unifilares do sistema, apresentando a conexão dos módulos e proteções elétricas.*
 ![Diagramas Unifilares](/images/unifilar2.png)
 *Legenda: Detalhamento dos diagramas unifilares do sistema, apresentando a conexão dos módulos e proteções elétricas.*
-![Planta de Situação](/images/sfv18_situacao.png)
+![Planta de Situação](/images/sfvsituação1.png)
+*Legenda: Planta de situação indicando a localização da unidade consumidora e a área de instalação dos módulos.*
+![Planta de Situação](/images/sfvsituação2.png)
 *Legenda: Planta de situação indicando a localização da unidade consumidora e a área de instalação dos módulos.*
