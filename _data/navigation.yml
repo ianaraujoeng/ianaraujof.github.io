@@ -14,20 +14,17 @@ main:
   - title: "Fotovoltaico"
     url: /talks/    
 
-  - title: "Automação"
+  - title: "SPDA"
     url: /teaching/    
     
   - title: "Projetos de Incêndio"
     url: /portfolio/
         
-  - title: "SPDA"
+  - title: "Automação"
     url: /year-archive/
     
   - title: "Soluções Eletronicas"
     url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
     
   - title: "BIM"
     url: /markdown/
